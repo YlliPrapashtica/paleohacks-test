@@ -17,7 +17,15 @@
 
 # misc
 .DS_Store
+Thumbs.db
 *.pem
+
+# IDE
+.vscode/
+.idea/
+
+# raw image sources (commit only optimized webp outputs)
+/public/images/raw/
 
 # debug
 npm-debug.log*
