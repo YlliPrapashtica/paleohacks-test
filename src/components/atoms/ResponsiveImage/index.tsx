@@ -29,7 +29,7 @@ export function ResponsiveImage({
       height={height}
       priority={priority}
       sizes={sizes}
-      className={`${rounded ? "rounded-xl" : ""} ${className}`.trim()}
+      className={`${rounded ? "rounded-[25px]" : ""} ${className}`.trim()}
     />
   );
 }

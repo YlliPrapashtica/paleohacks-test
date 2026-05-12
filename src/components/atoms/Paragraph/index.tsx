@@ -9,7 +9,7 @@ interface ParagraphProps {
 }
 
 const VARIANTS: Record<ParagraphVariant, string> = {
-  body: "font-body text-base leading-relaxed text-white",
+  body: "font-body text-base leading-relaxed text-black",
   caption: "font-body text-sm font-bold text-brand-red text-center",
 };
 

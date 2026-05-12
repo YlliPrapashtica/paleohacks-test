@@ -8,7 +8,7 @@
     text-rendering: optimizeLegibility;
   }
   body {
-    @apply bg-black text-white font-body antialiased;
+    @apply bg-white text-black font-body antialiased;
   }
   img {
     @apply max-w-full h-auto;

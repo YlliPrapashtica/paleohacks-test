@@ -6,12 +6,12 @@ const config: Config = {
     extend: {
       colors: {
         brand: {
-          purple: "#5B2A86",
-          red: "#E2231A",
-          redDeep: "#B5170F",
-          yellow: "#FFF200",
+          purple: "#55338A",
+          red: "#DB250D",
+          redDeep: "#DB250D",
+          yellow: "#FFF962",
           orange: "#F25C2C",
-          bannerBg: "#EFEAEF",
+          bannerBg: "#F0F1F7",
         },
       },
       fontFamily: {
